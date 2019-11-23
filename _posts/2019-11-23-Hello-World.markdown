@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hallow world
+title:  Hallo world
 date:   2019-11-23 16:27:55 +0300
 image:  01.jpg
 tags:   [Hi]
