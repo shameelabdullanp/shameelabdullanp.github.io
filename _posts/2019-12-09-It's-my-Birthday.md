@@ -9,4 +9,4 @@ tags:   [Birthday]
 Thank God! What A Wonderful Year...
 
 The last year was something special for my personal and professional existence.
-I lost something priceless that no one can fix it  and now, glancing back on it, I just recall the good stuff.   
+I lost something priceless that no one can fix it  And now, glancing back on it, I just recall the good stuff.   
