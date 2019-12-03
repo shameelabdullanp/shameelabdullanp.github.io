@@ -5,4 +5,6 @@ image: 08.jpg
 permalink: /about/
 ---
 
-Hey i'm Shameel ,This is my Blog -Enjoy🖤
+## Shameel Abdulla
+Developer, Open Source Contributor and Pen tester. 🖤   
+Ex-Hamdardian, BCA graduate.
