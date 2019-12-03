@@ -6,7 +6,6 @@ image:  02.jpg
 tags:   [Birthday]
 ---
 ## Hello world,    
-Today is my bithday   
 Thank God! What A Wonderful Year...
 
 The last year was something special for my personal and professional existence.
