@@ -12,7 +12,7 @@ Ex-Hamdardian, BCA graduate.
 #### *Social Media Links*
 * [Email ](mailto:shameelabdullanp@disroot.org "Email id")    
 * [Github](https://github.com/shameelabdullanp/ "Github")   
-* [[ Matrix ]](@shameelabdulla:matrix.org "Matrix.org")   
+* [ Matrix ] *@shameelabdulla:matrix.org*   
 * <a rel="me" href="https://mastodon.social/@shameelabdulla">Mastodon </a>
 * [Twitter]( https://twitter.com/shameel_abdulla "Twitter")
 * [Instagram]( https://www.instagram.com/abdulla_shameel/ "Instagram")
