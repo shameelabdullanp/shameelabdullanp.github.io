@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Happy birthday to me
-date:   2019-12-09 00:01:00 
+date:   2019-12-09 00:01:00 +0530
 image:  02.jpg
 tags:   [Birthday]
 ---
