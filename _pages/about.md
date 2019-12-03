@@ -7,4 +7,14 @@ permalink: /about/
 
 ## Shameel Abdulla
 Developer, Open Source Contributor and Pen tester. 🖤   
-Ex-Hamdardian, BCA graduate.
+Ex-Hamdardian, BCA graduate.    
+
+#### *Social Media Links*
+* [Email ](mailto:shameelabdullanp@disroot.org "Email id")    
+* [Github](https://github.com/shameelabdullanp/ "Github")   
+* [[ Matrix ]](@shameelabdulla:matrix.org "Matrix.org")   
+* <a rel="me" href="https://mastodon.social/@shameelabdulla">Mastodon </a>
+* [Twitter]( https://twitter.com/shameel_abdulla "Twitter")
+* [Instagram]( https://www.instagram.com/abdulla_shameel/ "Instagram")
+* [Facebook]( https://www.fb.com/shameel.abdulla.np/ "No longer in Facebook") *No longer in Facebook Please Check other social Media :)*    
+* [Linked**in**](https://www.linkedin.com/in/shameel-abdulla-a49121147/ "Linkedin")
