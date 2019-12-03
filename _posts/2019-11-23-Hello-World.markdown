@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Hello World
-date:   2019-11-23 16:27:55 +0300
+date:   2019-11-23 16:27:55 +0530
 image:  01.jpg
 tags:   [Hello,World]
 ---
