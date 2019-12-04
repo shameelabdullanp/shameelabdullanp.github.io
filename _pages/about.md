@@ -18,3 +18,4 @@ Ex-Hamdardian, BCA graduate.
 * [Instagram]( https://www.instagram.com/abdulla_shameel/ "Instagram")
 * [Facebook]( https://www.fb.com/shameel.abdulla.np/ "No longer in Facebook") *No longer in Facebook Please Check other social Media :)*    
 * [Linked**in**](https://www.linkedin.com/in/shameel-abdulla-a49121147/ "Linkedin")
+* <a rel="me" href="https://koyu.space/@shameelabdulla">Mastodon</a>
