@@ -10,8 +10,11 @@ Thank God! What A Wonderful Year...
 
 The last year was something special for my personal and professional existence.
 I lost something priceless that no one can fix it  And now, glancing back on it, I just recall the good stuff.  
->This birthday, I am once again reminded of the bountiful joys that I have reaped from my friends and family, and how blessed I am >to have so much love from everyone around me. Thank you, from the bottom of my heart. :two_hearts:  
+### This birthday, I am once again reminded of the bountiful joys that I have reaped from my friends and family, and how blessed I am to have so much love from everyone around me. Thank you, from the bottom of my heart. :two_hearts:  
+
+
 ### Thankyou All 
+
 + Dad , Mom
 + Shaheer,Saeed,Shanib (Brother Hood :muscle:)
 + Muhammed AP (Chikknni  :smile:)
@@ -69,4 +72,9 @@ I lost something priceless that no one can fix it  And now, glancing back on it,
 + Arshi ( Annan Uyir  :raised_hands:)
 + Sufiyan ( Sooopi  :heart_eyes:)
 + Nashi ( Sheythaneee :sweat_smile:)
++ Shahinsha ( Ummarkkante mon  :sweat_smile:)
++ Sahal ( Thatthamma :bird:)
++ Karthik ( GDG  :wink:)
++ SreeLal ( Google AOG  :scream:)
++ Fasil ( brotherhood  :muscle:)
 + 
