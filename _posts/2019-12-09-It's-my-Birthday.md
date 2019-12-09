@@ -57,7 +57,7 @@ I lost something priceless that no one can fix it  And now, glancing back on it,
 + Mubeen ( Qulb  🥰)
 + Varun ( Asaami  😂)
 + Yadu ( Army Boy  🎖️)
-+ Keerthana ( ChinMate  ⚡)
++ Nikila ( ChinMate  ⚡)
 + Rishan (Rishu  🔥)
 + Yashwanth ( YPR  😂
 + Aswanth ( CEHer  👀)
