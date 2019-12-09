@@ -29,7 +29,6 @@ I lost something priceless that no one can fix it  And now, glancing back on it,
 + Aiswariya ( ChinMate 💫)
 + Razayid ( Chikku T$$$$   😂💩)
 + Anshad ( Hamdaridiyan  ✨)
-+ Aswathi ( ChinMate  💫)
 + Sarga ( The disaster  🙈)
 + Shahabas ( HamMate 😍)
 + Forbidden 403 ( 👨‍💻 )
