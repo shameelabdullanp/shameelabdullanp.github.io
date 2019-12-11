@@ -91,7 +91,7 @@ I lost something priceless that no one can fix it  And now, glancing back on it,
 + Nihal ( Nichu 🎥 )
 + Saurav (Emptyskul 💀 )
 + Shikil (Boddy 👓)
-+ Rameesa ( ChinMate 👩‍👧 )
++ Rameesa ( ChinSis 👩‍👧 )
 + Jafna ( Chinmate 🧕 )
 + Aflah ( HamBotha 😻  )
 + Sarbas ( 403 👨‍💻)
