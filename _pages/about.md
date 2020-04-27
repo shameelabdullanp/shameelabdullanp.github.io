@@ -7,7 +7,7 @@ permalink: /about/
 
 ## Shameel Abdulla
 Developer, Open Source Contributor and Pen tester. 🖤   
-Ex-Hamdardian, BCA graduate.    
+   
 
 #### *Social Media Links*
 * [Email ](mailto:shameelabdullanp@disroot.org "Email id")    
