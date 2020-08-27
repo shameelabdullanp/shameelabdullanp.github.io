@@ -44,22 +44,20 @@
       </li>
       {% else %} {% endif %}
 
+      
       {% if site.pinterest %}
-      <li class="social-profiles-item">
-        <a href="{{ site.pinterest }}" class="social-profiles-link"><i class="ion ion-logo-pinterest"></i></a>
-      </li>
+      
       {% else %} {% endif %}
     </ul>
   </div>
 
   
 
-  {% if site.instafeed == true %}
+  {% if site.instafeed == false %}
   <div class="widget widget-instagram">
-    <h3 class="widget-title">Instagram</h3>
+    <h3 class="widget-title">mastodon Feed</h3>
     <div class="instagram-box">
-      <ul id="instafeed" class="instagram-grid list-reset clearfix"></ul>
-      <a class="instagram-prof" href="www.instagram.com/abdulla_shameel">&#64;abdulla_shameel</a>
+     <iframe allowfullscreen sandbox="allow-top-navigation allow-scripts" width="400" height="800" src="http://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmstdn.social%2Fusers%2Fshameelabdulla&theme=dark&size=100&header=false&replies=true&boosts=true"></iframe>
     </div>
   </div>
   {% endif %}
