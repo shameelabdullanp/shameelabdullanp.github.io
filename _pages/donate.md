@@ -1,6 +1,7 @@
 ---
 layout: page
 title: DONATE
+image: donate.jpg
 permalink: /donate/
 ---
 
