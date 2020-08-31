@@ -10,4 +10,4 @@ Would you be willing to help by giving a donation? Every penny will help. 🖤
 #### *Payment Links*
 * [Paypal ID:shameelabdulla ](http://paypal.me/shameelabdulla "Paypal ME") 
  or use shameelabdullanp@disroot.org
-* [upi ID : shameelabdulla@federal ](upi://pay?pa=shameelabdulla@federal "Pay via upi)
+* Upi ID : shameelabdulla@federal
