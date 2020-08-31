@@ -1,13 +1,13 @@
 ---
 layout: page
 title: DONATE
-image: 08.jpg
 permalink: /donate/
 ---
 
-## Shameel Abdulla
-🖤   
+Would you be willing to help by giving a donation? Every penny will help. 🖤
    
 
 #### *Payment Links*
 * [Paypal ID:shameelabdulla ](http://paypal.me/shameelabdulla "Paypal ME") 
+Use shameelabdullanp@disroot.org
+* [upi ID : shameelabdulla@federal](upi://pay?pa=shameelabdulla@federal "Pay via upi)
