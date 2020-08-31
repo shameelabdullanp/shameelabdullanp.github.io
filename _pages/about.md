@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About
-image: 08.jpg
+image: about.jpg
 permalink: /about/
 ---
 
 ## Shameel Abdulla
-Developer, Open Source Contributor and Pen tester. 🖤   
+Developer, Open Source Contributor. 🖤   
    
 
 #### *Social Media Links*
