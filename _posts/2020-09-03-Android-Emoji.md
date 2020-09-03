@@ -21,7 +21,7 @@ working of this moudle is very simple, Changing noto color font to a specific tt
 
 #### Can i use edit the Emojis?
 
-technicaly "YES",but changing emoji in your device won't change the unicode Emojis standrds.can possibly change the unicode charectors my using ttf changer or your self and replacing the noto-color font well change on **your device**
+technicaly "YES",but changing emoji in your device won't change the unicode Emojis standrds.can possibly change the unicode charectors by using ttf changer or your self and replacing the noto-color font well change on **your device**
 
 #### What is unicode Emoji standrds?
 
