@@ -25,7 +25,7 @@ technicaly "YES",but changing emoji in your device won't change the unicode Emoj
 
  [Please Check this link](https://unicode.org/emoji/charts/full-emoji-list.html).
 
- #### can my firend can see this Emoji by sending this?
+ #### Can my friend can see this Emoji by sending this?
 
  No, they also need to be updated to this unicode emoji version , otherwise they can see _BOXES_
 
