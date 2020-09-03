@@ -2,7 +2,7 @@
 layout: post
 title:  Android 11 Emoji for Magisk
 date:   2020-09-03 20:30:00 +0530
-image:  01.jpg
+image:  03.jpg
 tags:   [Android,Emoji,Magisk]
 ---
 #### I made Magisk module un relased android 11 Emojis ( unicode 13)
