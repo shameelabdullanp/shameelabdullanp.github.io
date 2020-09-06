@@ -5,13 +5,13 @@ date:   2020-09-03 20:30:00 +0530
 image:  03.jpg
 tags:   [Android,Emoji,Magisk]
 ---
-#### I made Magisk module unrelased android 11 Emojis ( unicode 13)
+#### I made Magisk module unrelased android 11 Emojis ( unicode Emoji v13)
 
 
 ###### Before you reading this please check my github repo. on [Github](https://github.com/shameelabdullanp/droid-Emoji "github.com/shameelabdullanp/droid-Emoji"). and also check relased packages on relase page
 >this moudle can not be added to magisk manager directly becouse of font issue.*But you can install from zip file*
 
-this moudle is supported various devices including AOSP devices and samsung devices
+this moudle is supported various devices including AOSP devices and samsung devices.
 
 #### What this module do?
 
@@ -19,7 +19,7 @@ working of this moudle is very simple, Changing noto-color-font to a specific tt
 
 #### Can i use edit the Emojis?
 
-technicaly "YES",but changing emoji in your device won't change the unicode Emojis standrds.can possibly change the unicode charectors by using ttf changer or your self and replacing the noto-color font ***will change only on your device***
+Technicaly "YES",but changing emoji in your device won't change the unicode Emojis standrds.can possibly change the unicode charectors by using ttf changer or your self and replacing the noto-color font ***will change only on your device***
 
 #### What is unicode Emoji standrds?
 
