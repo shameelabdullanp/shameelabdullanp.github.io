@@ -7,7 +7,7 @@ permalink: /about/
 
 ## Shameel Abdulla
 Developer, Open Source Contributor. 🖤   
-   
+
 
 #### *Social Media Links*
 * [Email ](mailto:shameelabdullanp@disroot.org "Email id")    
@@ -18,3 +18,4 @@ Developer, Open Source Contributor. 🖤
 * [Instagram]( https://www.instagram.com/abdulla_shameel/ "Instagram")
 * [Facebook]( https://www.fb.com/shameel.abdulla.np/ "No longer in Facebook") *No longer in Facebook Please Check other social Media :)*    
 * [Linked**in**](https://www.linkedin.com/in/shameel-abdulla-a49121147/ "Linkedin")
+* [PixelFed](https://pixelfed.social/shameel_abdulla "PixelFed")
