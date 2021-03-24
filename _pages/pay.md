@@ -2,7 +2,7 @@
 layout: page
 title: Pay
 visible: 1
-permalink: /donate/
+permalink: /pay/
 ---
    
 
