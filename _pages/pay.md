@@ -2,7 +2,6 @@
 layout: page
 title: Pay Using Upi
 visible: 0
-published: false
 permalink: /pay/
 ---
 <center>
